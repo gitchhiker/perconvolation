@@ -18,9 +18,9 @@ print("\nYou are running python", sys.version, "\n")
 
 # local imports
 
-import percolation
-# import stdio
-# import stdarray
+import princeton
+# import princeton/stdio
+# import princeton/stdarray
 
 
 # The main object: the Matrix
